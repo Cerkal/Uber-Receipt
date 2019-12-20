@@ -1,10 +1,10 @@
 <?php
 	
-	const NAME 				 = 'John';
-	const CARD				 = '6668';
-	const AMOUNT			 = 4000;
-	const MIN_RECEIPT_AMOUNT = 10;
-	const MAX_RECEIPT_AMOUNT = 100;
+	const NAME					= 'John';
+	const CARD 					= '6668';
+	const AMOUNT 				= 4000;
+	const MIN_RECEIPT_AMOUNT 	= 10;
+	const MAX_RECEIPT_AMOUNT 	= 100;
 
 	ini_set('display_errors', 1);
 	ini_set('display_startup_errors', 1);
